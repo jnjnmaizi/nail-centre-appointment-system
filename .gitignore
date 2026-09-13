@@ -1,0 +1,16 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.dSYM/
+/nail-centre
+/main
+/artist
+/customer
+/service
+
+# Local editor and system files
+.DS_Store
+.vscode/
+.idea/
