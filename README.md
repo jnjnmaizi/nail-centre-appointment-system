@@ -4,6 +4,10 @@ A console application written in C for managing a nail centre's customers, artis
 
 Customers can book a service with an artist, change or cancel unpaid appointments, and receive a receipt for their unpaid services. Payment is recorded locally; the program does not connect to a payment provider.
 
+## Program Output
+
+See [OUTPUT.md](OUTPUT.md) for a sample run showing the menu, a booking, an artist conflict, and a payment receipt.
+
 ## Features
 
 - Add customers and artists, and look them up by ID.
@@ -49,6 +53,7 @@ nail-centre-appointment-system/
 ├── services.txt       # Example service
 ├── appointments.txt   # Starts empty
 ├── .gitignore
+├── OUTPUT.md           # Sample console output
 └── README.md
 ```
 
